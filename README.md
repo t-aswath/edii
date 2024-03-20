@@ -55,9 +55,9 @@ These machine learning models complement our EHR solution by providing actionabl
 
 To set up and run the EHR solution locally, follow the instructions provided in the respective frontend and backend README files:
 
-- [Frontend README](https://github.com/RahulNavneeth/IIITDM-HACK-frontend/blob/master/README.md)
-- [Backend README](https://github.com/navi-prem/EHR-backend/blob/master/README.md)
-- [Model README](https://github.com/RaviprasathKJ/EHR-model/blob/main/README.md)
+- [Frontend README](frontend/README.md)
+- [Backend README](backend/README.md)
+- [Model README](EHR-model/README.md)
 
 ## Demo
 
